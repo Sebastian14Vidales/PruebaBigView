@@ -5,4 +5,4 @@
 - Seguidamente ejecutamos el comando npm run dev y levantamos el servicio
 
 
-
+Puede verse tambien en: https://prueba-bigview-sebastian.netlify.app/
